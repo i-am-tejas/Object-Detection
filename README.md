@@ -2,7 +2,7 @@
 
 This repo provides C++ implementation of [yolov4-tiny model](https://github.com/AlexeyAB/darknet) using
 Tencent's NCNN framework.
-![image](https://github.com/dog-qiuqiu/Android_NCNN_yolov4-tiny/blob/master/app demo.mp4)
+![image](https://github.com/dog-qiuqiu/Android_NCNN_yolov4-tiny/blob/master/Demo.gif)
 
 ## If the program crashes, please open the camera permission
 
